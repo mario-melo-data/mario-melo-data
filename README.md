@@ -24,7 +24,7 @@ Python (pandas, scikit-learn, PyTorch, matplotlib, seaborn, imbalanced-learn), M
 
 ### Currently working on
 
-MSc dissertation in collaboration with Registry Trust on area-level credit risk in England, predicting LSOA-level County Court Judgment patterns one year ahead using IMD 2025 indicators. The work combines interpretable machine learning (Logistic Regression, Random Forest, XGBoost, LightGBM), walk-forward validation, SHAP explainability, DiCE counterfactuals, and a fairness audit across deprivation deciles.
+MSc dissertation in collaboration with Registry Trust on area-level credit risk in England. The project predicts LSOA-level County Court Judgment patterns one year ahead using IMD 2025 indicators. Methods include Logistic Regression, Random Forest, XGBoost, and LightGBM under walk-forward validation, with SHAP explainability, DiCE counterfactuals, and a fairness audit across deprivation deciles.
 
 ### Contact
 
