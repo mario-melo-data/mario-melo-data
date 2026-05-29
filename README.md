@@ -2,11 +2,9 @@
 
 Finance and data science. MSc Data Science at City St George's, University of London (in progress) and BSc Finance and Accounting (First Class, 83.5%) from Anglia Ruskin University, with nine ACCA exemptions.
 
-Interested in credit risk, model risk, quantitative analytics, and fintech roles where financial domain knowledge and data science work together.
-
 ### Status
 
-Open to UK graduate roles, entry-level opportunities, and relevant work experience in credit risk, model risk, quantitative analytics, and fintech.
+Open to UK graduate schemes and entry-level roles in credit risk, model risk, quantitative analytics, and fintech. Open to relevant work experience and internships.
 
 ### Currently working on
 
