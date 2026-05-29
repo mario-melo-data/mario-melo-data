@@ -4,6 +4,14 @@ Finance and data science. MSc Data Science at City St George's, University of Lo
 
 Interested in credit risk, model risk, quantitative analytics, and fintech roles where financial domain knowledge and data science work together.
 
+### Status
+
+Open to UK graduate roles, entry-level opportunities, and relevant work experience in credit risk, model risk, quantitative analytics, and fintech.
+
+### Currently working on
+
+MSc dissertation in collaboration with Registry Trust on area-level credit risk in England. The project predicts LSOA-level County Court Judgment patterns one year ahead using IMD 2025 indicators. Methods include Logistic Regression, Random Forest, XGBoost, and LightGBM under walk-forward validation, with SHAP explainability, DiCE counterfactuals, and a fairness audit across deprivation deciles.
+
 ### Focus areas
 
 * Credit risk modelling: probability of default, calibration, threshold and cost-sensitive analysis
@@ -21,10 +29,6 @@ Interested in credit risk, model risk, quantitative analytics, and fintech roles
 ### Tech
 
 Python (pandas, scikit-learn, PyTorch, matplotlib, seaborn, imbalanced-learn), MATLAB (Statistics and Machine Learning Toolbox), SQL (in progress), Git, GitHub.
-
-### Currently working on
-
-MSc dissertation in collaboration with Registry Trust on area-level credit risk in England. The project predicts LSOA-level County Court Judgment patterns one year ahead using IMD 2025 indicators. Methods include Logistic Regression, Random Forest, XGBoost, and LightGBM under walk-forward validation, with SHAP explainability, DiCE counterfactuals, and a fairness audit across deprivation deciles.
 
 ### Contact
 
