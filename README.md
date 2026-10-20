@@ -1,6 +1,6 @@
 # Mario Melo
 
-First-Class Finance and Accounting graduate (BSc Hons, 83.5%, Anglia Ruskin University) with a recently completed MSc in Data Science from City St George's, University of London (taught-module average 72.6%, Distinction level; dissertation submitted, result pending). Eligible for nihttps://github.com/mario-melo-data/mario-melo-data/blob/main/README.mdne ACCA exemptions.
+First-Class Finance and Accounting graduate (BSc Hons, 83.5%, Anglia Ruskin University) with a recently completed MSc in Data Science from City St George's, University of London (taught-module average 72.6%, Distinction level; dissertation submitted, result pending). Eligible for nine ACCA exemptions.
 
 ## Looking for
 
